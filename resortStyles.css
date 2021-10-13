@@ -1,0 +1,25 @@
+body {
+	font-family: "Comic Sans MS", serif;
+	color: navy;
+	background-color: #FBF6D9;
+}
+
+h1 {
+	background-color: SkyBlue;
+	border-style: solid;	
+	border-color: navy;
+	text-align: center;
+}
+
+img {
+	border-style: solid;
+	border-color: Teal;
+}
+
+#listOne {
+	color: #C04000;
+}
+
+#listTwo {
+	color: #7FE817;
+}
